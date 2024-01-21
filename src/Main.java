@@ -5,7 +5,7 @@ import java.util.*;
  * This program was written to meet the needs of the Tattaglia Crime Family.
  * The names and GMS values of the members of the Tattaglia Crime Family were created as "Node" with the help of the "Node" class and
  * the nodes are stored in a structure very similar to AVL Tree with the help of the "Tree" class.
- * Kerem Bozkurt 2020400177
+ * Kerem Bozkurt 
  * */
 public class Main {
     public static void main(String[] args) throws IOException {
